@@ -1,2 +1,3 @@
 Moja Piosenka|https://raw.githubusercontent.com/DedalChrome/SL-Music/refs/heads/main/song1.txt
 we123|https://raw.githubusercontent.com/DedalChrome/SL-Music/refs/heads/main/song2.txt
+3|https://raw.githubusercontent.com/DedalChrome/SL-Music/refs/heads/main/Song3.txt
